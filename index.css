@@ -302,6 +302,7 @@ input[type="text"] {
   border-radius: 2rem 2rem;
   background-color: lightgray;
   max-width: 10rem;
+  outline: none;
 }
 
 .emoji {
