@@ -15,11 +15,15 @@ html{
     justify-content: center;
 }
 
+body{
+    background-image: url('./messenger-1.jpg');
+}
+
 .container{
     width: 100vw;
     height: 100vh;
-    background: url('/messenger-1.jpg');
-    background-attachment: fixed;
+    /* background: url('/messenger-1.jpg');
+    background-attachment: fixed; */
 }
 
 .wrapper{
